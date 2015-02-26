@@ -363,7 +363,7 @@ a:hover.nav_logo {
 	margin: 0% 5%;
 	}
 
-.key_01 	{ background-image: url("../../inc/img/put-key-feature-01.svg"); }
+.key_01 	{ background-image: url("/inc/img/put-key-feature-01.svg"); }
 .key_02		{ background-image: url("../../inc/img/icons/put-key-feature-02.svg"); }
 .key_03 	{ background-image: url("../../inc/img/put-key-feature-03.svg"); }
 .key_04 	{ background-image: url("../../inc/img/icons/put-key-feature-04.svg"); }
