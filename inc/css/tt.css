@@ -348,7 +348,9 @@ a:hover.nav_logo {
 .sec_5	{ background-image: url("../../inc/img/banners/code.png"); }
 .sec_6	{ background-image: url("../../inc/img/banners/laptop.png"); }
 
-
+.album {
+	height: 250px;
+}
 /* ICONS */	
 .icon {
 	width: 100px;
