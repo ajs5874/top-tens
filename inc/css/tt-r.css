@@ -2,16 +2,16 @@
 
 /* Larger than mobile */
 
-@media (min-width: 360px) and (max-width: 400px) {
+@media (min-width: 320px) and (max-width: 480px) {
 	.wrapper {
-		width: 320px;
+		width: 300px;
 	}
 	
 	img.album {
-		width: 160px!important;
+		width: 150px!important;
 	}
 }
-@media (min-width: 401px) and (max-width: 600px) {
+@media (min-width: 481px) and (max-width: 600px) {
 	.wrapper {
 		width: 360px;
 	}
